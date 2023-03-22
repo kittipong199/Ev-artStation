@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "418063442292",
+    "project_id": "my-app-flutter-ddc9e",
+    "storage_bucket": "my-app-flutter-ddc9e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:418063442292:android:942046c32983938604cc21",
+        "android_client_info": {
+          "package_name": "com.deaf.google_map"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "418063442292-6vfuni7mcg9jsdj8fd4sqmepki7s509u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACAPzuQOtRKpDs-lQGMAYvrt0LE9Urq4Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "418063442292-6vfuni7mcg9jsdj8fd4sqmepki7s509u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
